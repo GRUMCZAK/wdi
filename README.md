@@ -1,6 +1,6 @@
 # wdi
 Witam w moim repozytorium
-[Pierwsza strona](https://users.v-lo.krakow.pl/~b.nalodka/stronaBonaparte.html)
+[Moja pierwsza strona](https://users.v-lo.krakow.pl/~b.nalodka/stronaBonaparte.html)
 
 - Małopolska
 * Wielkopolska
