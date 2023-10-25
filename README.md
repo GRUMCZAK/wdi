@@ -14,7 +14,7 @@ Witam w moim repozytorium
 ## Różnej
 ### Wielkości
 
-` print("Hello world)`
+``` print("Hello world") ```
 
 | Rok   | Zmiana PKB Polski |
 | ----- | ----------------- |
